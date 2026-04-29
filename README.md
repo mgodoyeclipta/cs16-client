@@ -1,6 +1,8 @@
 # CS16Client [![Build Status](https://github.com/Velaron/cs16-client/actions/workflows/build.yml/badge.svg)](https://github.com/Velaron/cs16-client/actions) <img align="right" width="128" height="128" src="https://github.com/Velaron/cs16-client/raw/main/android/app/src/main/ic_launcher-playstore.png" alt="CS16Client" />
 Reverse-engineered Counter Strike 1.6 client, designed for mobile platforms and other officially non-supported platforms.
 
+> **This is a fork** of [Velaron/cs16-client](https://github.com/Velaron/cs16-client). The goal is to make it run on **macOS Apple Silicon (arm64)** while keeping changes as close to upstream as possible — prefer upstream-compatible fixes over fork-specific workarounds.
+
 ## Donate
 [![Boosty.to](https://img.shields.io/badge/Boosty-F15F2C?logo=boosty&logoColor=fff&style=for-the-badge)](https://boosty.to/velaron)
 
