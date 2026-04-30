@@ -64,3 +64,4 @@ release/
 *.tasks
 regamebuild/
 .vs/
+LOCAL_BUILD.md
